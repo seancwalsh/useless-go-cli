@@ -1,0 +1,16 @@
+*.exe
+*.test
+*.out
+*.log
+*.bin
+*.gen.go
+vendor/
+*.a
+*.o
+*.so
+*.swp
+.DS_Store
+.idea/
+.vscode/
+*.bak
+*.tmp
